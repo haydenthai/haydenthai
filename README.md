@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a really cool project.
 - 🌱 I’m currently learning **System Design**, **Distributed Systems**, and some **Machine Learning**.
 - 💬 Ask me about **Next.js**, **Typescript**, **AWS** or **Large Language Models**.
-- ⚡ Fun fact: In my free time I like to rock climb :climbing: and go surfing :surfer:.
+- ⚡ Fun fact: In my free time I like to rock climb :climbing:, go surfing :surfer: and learn about finance:bank:.
 --- 
 
 ### I'm most comfortable working with: 
