@@ -2,7 +2,7 @@
 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-haydenthai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haydenthai/)](https://www.linkedin.com/in/haydenthai/)
-[![Website Badge](https://img.shields.io/badge/-haydenthai.com-47CC0C?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.haydenthai.com/)](https://www.haydenthai.com/)
+[![Website Badge](https://img.shields.io/badge/-haydenthai.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.haydenthai.com/)](https://www.haydenthai.com/)
 
 - 🔭 I’m currently working on a really cool project.
 - 🌱 I’m currently learning **System Design**, **Distributed Systems**, and some **Machine Learning**.
