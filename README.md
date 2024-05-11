@@ -4,8 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-haydenthai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haydenthai/)](https://www.linkedin.com/in/haydenthai/)
 [![Website Badge](https://img.shields.io/badge/-haydenthai.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.haydenthai.com/)](https://www.haydenthai.com/)
 
-- 🔭 I’m currently working on a really cool project.
-- 🌱 I’m currently learning **System Design**, **Distributed Systems**, and some **Machine Learning**.
+
+- :briefcase: I'm a Software Engineer at [Crowdstrike](https://www.crowdstrike.com/en-us//), previously at **Amazon**.
+- :school: I'm a Senior studying **Computer Engineering** at **San Diego State University**, set to graduate **December 2024**.
+- 🔭 I’m currently working on a really cool project that uses **LLMS** to automate workflows.
+- 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
 - 💬 Ask me about **Next.js**, **Typescript**, **AWS** or **Large Language Models**.
 - ⚡ Fun fact: In my free time I like to rock climb :climbing:, go surfing :surfer: and learn about finance:bank:.
 --- 
