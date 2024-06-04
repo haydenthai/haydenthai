@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-haydenthai.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.haydenthai.com/)](https://www.haydenthai.com/)
 
 
-- :briefcase: I'm a Software Engineer at [Crowdstrike](https://www.crowdstrike.com/en-us//), previously at **Amazon**.
+- :briefcase: I'm a Software Engineer Intern at [Crowdstrike](https://www.crowdstrike.com/en-us//), previously at **Amazon**.
 - :school: I'm a Senior studying **Computer Engineering** at **San Diego State University**, set to graduate **December 2024**.
 - 🔭 I’m currently working on a really cool project that uses **LLMS** to automate workflows.
 - 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
